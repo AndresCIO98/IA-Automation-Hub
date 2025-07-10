@@ -1,0 +1,48 @@
+
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs comunes
+.vscode/
+.idea/
+
+# Otros archivos temporales
+*.swp
+
+
+
+# Python
+_pycache_/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de sistema
+.DS_Store
+
+# Otros
+*.log
+
