@@ -1,0 +1,5 @@
+.git_token
+.bash_history
+.git-credentials
+.config/
+paths_to_remove.txt
