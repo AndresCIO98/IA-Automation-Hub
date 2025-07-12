@@ -1,26 +1,32 @@
-# Archivos de sistema
+
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Python
-_pycache_/
-*.pyc
-*.pyo
-*.pyd
-env/
-venv/
-.venv/
+# IDEs
+.vscode/
+.idea/
 
-# Logs
-logs/
-*.log
-
-# Modelos / datos grandes
-*.h5
-*.pkl
-*.joblib
-*.pt
-outputs/
-
-# Configs locales
-*.env
+# Data
+data/*.csv
+data/*.json

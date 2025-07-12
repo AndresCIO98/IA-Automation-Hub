@@ -1,21 +1,18 @@
-# IA-Automation-Hub 🚀
+# IA-Automation-Hub
 
-Repositorio base profesional para automatización e inteligencia artificial.  
-Este hub contiene herramientas, scripts y estructuras modulares listas para producción y escalabilidad.
+*Desarrollado por Andrés* | Asistido por Sofía 🤖  
+Una plataforma para desarrollar herramientas de automatización e inteligencia artificial listas para producción, monetización remota y escalamiento.
 
-## 📁 Estructura
-- scripts/: Scripts automatizados.
-- src/: Código fuente principal.
-- data/: Datos brutos o procesados.
-- docs/: Documentación técnica.
-- tests/: Tests automatizados.
-- logs/: Registros de ejecución.
-- outputs/: Resultados y modelos generados.
+## Estructura
 
-## ⚙️ Uso
-1. Clona el repositorio.
-2. Ejecuta scripts/crear_carpetas.sh para generar estructura.
-3. Comienza a desarrollar desde src/.
+- src/: Código fuente
+- tests/: Pruebas
+- data/: Datasets
+- docs/: Documentación
+- notebooks/: Exploración y prototipado
 
-## 📄 Licencia
-MIT © AndrésCIO98
+## Requisitos
+
+```bash
+pip install -r requirements.txt
+
