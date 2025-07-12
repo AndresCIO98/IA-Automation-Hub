@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Ignorar entornos virtuales
 venv/
@@ -14,3 +15,10 @@ _pycache_/
 .config/
 .git_token
 .bash_history
+=======
+.git_token
+.bash_history
+.git-credentials
+.config/
+paths_to_remove.txt
+>>>>>>> b05d334e8cf66223c507e80d004b48b34ee7b745
