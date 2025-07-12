@@ -1,24 +1,26 @@
-<<<<<<< HEAD
-
-# Ignorar entornos virtuales
-venv/
-.env/
-
-# Archivos del sistema
+# Archivos de sistema
 .DS_Store
 Thumbs.db
 
-# Archivos temporales
-*.pyc
+# Python
 _pycache_/
-.git-credentials
-.config/
-.git_token
-.bash_history
-=======
-.git_token
-.bash_history
-.git-credentials
-.config/
-paths_to_remove.txt
->>>>>>> b05d334e8cf66223c507e80d004b48b34ee7b745
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Modelos / datos grandes
+*.h5
+*.pkl
+*.joblib
+*.pt
+outputs/
+
+# Configs locales
+*.env
