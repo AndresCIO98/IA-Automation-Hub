@@ -1,0 +1,4 @@
+.git-credentials
+.config/gh/hosts.yml
+.git_token
+.bash_history
