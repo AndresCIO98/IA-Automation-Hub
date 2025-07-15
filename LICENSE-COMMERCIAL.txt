@@ -1,0 +1,13 @@
+LICENCIA DE USO COMERCIAL AUTORIZADO
+
+Este proyecto, IA-Automation-Hub, está autorizado para uso, implementación y monetización en entornos comerciales, educativos, institucionales y tecnológicos.
+
+Se permite el uso por parte de empresas como Microsoft, Google, organizaciones financieras, bursátiles y cualquier entidad que respete los términos establecidos en las licencias adjuntas (MIT, Apache 2.0, GPLv3 o Licencia Privada, según el componente utilizado).
+
+Este software puede ser licenciado, vendido o sublicenciado sin restricciones, siempre que se respete la autoría original y los acuerdos de cada componente legal.
+
+Autorizado por:  
+Andrés Varon  
+andrescio98@gmail.com  
+Julio 2025
+
