@@ -1,0 +1,2 @@
+[2025-07-15 14:06:16] andres | Edad: 26 | Nivel: basico => 🟢 Bienvenido. Acceso básico habilitado.
+[2025-07-15 14:23:43] andres | Edad: 26 | Nivel: basico => 🟢 Bienvenido. Acceso básico habilitado.
