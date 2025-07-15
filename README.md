@@ -1,18 +1,21 @@
-# IA-Automation-Hub
+# 🧠 IA-Automation-Hub
 
-*Desarrollado por Andrés* | Asistido por Sofía 🤖  
-Una plataforma para desarrollar herramientas de automatización e inteligencia artificial listas para producción, monetización remota y escalamiento.
+Bienvenido al proyecto *IA-Automation-Hub*, una plataforma de automatización inteligente y flexible basada en Python, diseñada para escalar, monetizar y colaborar globalmente.
 
-## Estructura
+Desarrollado por *Andrés Varon*  
+Asesorado por *Sofía (IA estratégica)*  
+Contacto: andrescio98@gmail.com
 
-- src/: Código fuente
-- tests/: Pruebas
-- data/: Datasets
-- docs/: Documentación
-- notebooks/: Exploración y prototipado
+---
 
-## Requisitos
+## 📁 Estructura del proyecto
+IA-Automation-Hub/ │ ├── scripts/                # Scripts de automatización inteligentes ├── sofia/                  # Núcleo del asistente Sofía ├── docs/                   # Documentación técnica ├── LICENSE-MIT ├── LICENSE-APACHE ├── LICENSE-GPLv3 ├── LICENSE-PRIVATE ├── LICENSE-COMMERCIAL.txt ├── README.md ├── .gitignore └── requirements.txt
+
+---
+
+## ⚙️ Instalación rápida
+
+Requisitos previos: Tener Python 3.10+ y bash instalado.
 
 ```bash
-pip install -r requirements.txt
-
+nano README.md
