@@ -30,3 +30,4 @@ Thumbs.db
 # Data
 data/*.csv
 data/*.json
+google-credentials.json
